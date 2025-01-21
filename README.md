@@ -1,5 +1,7 @@
 # SentimentAnalysisModernBERT
-This project demonstrates sentiment analysis using ModernBERT, an improved version of BERT designed for better computational efficiency, longer text handling, and enhanced interpretability. The implementation includes fine-tuning ModernBERT on IMDb dataset and evaluating its performance.
+This project demonstrates sentiment analysis using ModernBERT, an improved version of BERT designed for better computational efficiency, longer text handling, and enhanced interpretability. 
+
+The implementation includes fine-tuning ModernBERT on IMDb dataset and evaluating its performance.
 🔧 Features
 ✅ Fine-tuning ModernBERT for sentiment analysis
 ✅ Training and evaluation using Hugging Face’s Trainer API
